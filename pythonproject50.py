@@ -13,7 +13,6 @@ plt.title('Count of Legitimate vs Shill Bidding')
 plt.xlabel('Class')
 plt.ylabel('Number of Records')
 plt.grid(True)
-plt.tight_layout()
 plt.show()
 
 # 🎯 Objective 2: Average Auction Bids by Class (Horizontal Bar Chart)
